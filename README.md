@@ -3,11 +3,11 @@
 I'm Carla, a multimedia engineer who loves programming and making digital art.
 
 [![programming-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiryuko&theme=github_dark&layout=compact&langs_count=6)](https://github.com/SrGobi/github-readme-stats)
-[![profile-stats](https://github-readme-stats.vercel.app/api?username=shiryuko&theme=github_dark)](https://github.com/SrGobi/github-readme-stats)
 
 ### What I'm working on:
 * 💻 Full time project manager and frontend developer at Systems, Servers & Solutions
 * 🎮 Nintendo DS Homebrew game: Touch & Brush
 
+### Where to find me
 [![medium-light-twitter-x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg)](https://x.com/shiryuko)
 [![medium-light-linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg)](https://www.linkedin.com/in/carla-macia-diez-246746194/)
