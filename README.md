@@ -2,10 +2,8 @@
 
 I'm Carla, a multimedia engineer who loves programming and making digital art.
 
-##
-
-[![profile-stats](https://github-readme-stats.vercel.app/api?username=shiryuko&theme=react)](https://github.com/SrGobi/github-readme-stats)
-[![programming-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiryuko&theme=react&langs_count=6)](https://github.com/SrGobi/github-readme-stats)
+[![programming-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiryuko&theme=github_dark&layout=compact&langs_count=6)](https://github.com/SrGobi/github-readme-stats)
+[![profile-stats](https://github-readme-stats.vercel.app/api?username=shiryuko&theme=github_dark)](https://github.com/SrGobi/github-readme-stats)
 
 ### What I'm working on:
 * 💻 Full time project manager and frontend developer at Systems, Servers & Solutions
