@@ -9,5 +9,5 @@ I'm Carla, a multimedia engineer who loves programming and making digital art.
 * 🎮 Nintendo DS Homebrew game: Touch & Brush
 
 ### Where to find me
-[![medium-light-twitter-x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg)](https://x.com/shiryuko)
-[![medium-light-linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg)](https://www.linkedin.com/in/carla-macia-diez-246746194/)
+[![medium-filled-twitter-x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitter-x.svg)](https://x.com/shiryuko)
+[![medium-filled-linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://www.linkedin.com/in/carla-macia-diez-246746194/)
